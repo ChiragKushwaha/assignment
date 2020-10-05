@@ -1,0 +1,23 @@
+.modal-container{
+    width: 100vw;
+}
+.button-container{
+width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button-container > button {
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    letter-spacing: 2px;
+    background-color: #ab003c;
+    border-radius: 2px;
+    width: 100px;
+    height: 40px;
+  }
+  .button-container > button:hover {
+    background-color: #ff4569;
+  }

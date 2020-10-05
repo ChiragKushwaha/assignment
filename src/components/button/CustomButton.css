@@ -1,0 +1,14 @@
+#button{
+    width:40vw;
+    color: white;
+    font-size: 4vw;
+    font-weight: bold;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 5px;
+    background-color:#e91e63;
+}
+
+#button:hover{
+    background: #ab003c;
+}

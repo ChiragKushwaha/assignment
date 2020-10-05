@@ -1,0 +1,25 @@
+.pagination{
+    position: absolute;
+    top: 92vh;
+    width: 100vw;
+}
+.pagination>ul{
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    align-items: center; 
+    justify-content: center;
+}
+.page-link{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.page-link:hover{
+    color: yellowgreen;
+}
+.page-link:active{
+    color: blueviolet;
+}

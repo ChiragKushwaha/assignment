@@ -1,0 +1,23 @@
+.firstpage {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.data-container {
+  height: 84vh;
+  display: flex;
+  color: wheat;
+  width: 100%;
+  /* align-items: center; */
+  /* justify-content: center; */
+  background-color: #424242;
+}
+
+#data{
+  display: flex;
+  position: relative;
+  
+  right: 0;
+  padding: 50px;
+}
+
